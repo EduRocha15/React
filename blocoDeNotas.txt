@@ -34,4 +34,3 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Serve para fazer requisições rest
 npm i axios
->>>>>>> 9bb5cd13a94d7b74238bcdb0da89a6d2b1ab5f04
